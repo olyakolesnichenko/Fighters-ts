@@ -1,0 +1,14 @@
+# == Core ==
+/node_modules
+/dist
+npm-debug.log
+
+# == JetBrains ==
+
+.idea/
+
+# == macOS ==
+
+.DS_Store
+.AppleDouble
+.LSOverride
